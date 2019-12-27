@@ -1,0 +1,22 @@
+{
+  "name": "ZSYFramework",
+  "version": "0.1.0",
+  "summary": "A short description of ZSYFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhusongyu1990@163.com/ZSYFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhusongyu1990@163.com": "zhusongyu1990@163.com"
+  },
+  "source": {
+    "git": "https://github.com/zhusongyu1990@163.com/ZSYFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZSYFramework/Classes/**/*"
+}

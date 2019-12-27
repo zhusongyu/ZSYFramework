@@ -1,0 +1,6 @@
+framework module Pods_ZSYFramework_Tests {
+  umbrella header "Pods-ZSYFramework_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

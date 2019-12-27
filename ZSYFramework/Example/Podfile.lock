@@ -1,0 +1,16 @@
+PODS:
+  - ZSYFramework (0.1.0)
+
+DEPENDENCIES:
+  - ZSYFramework (from `../`)
+
+EXTERNAL SOURCES:
+  ZSYFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZSYFramework: d9cb4981ff2d0dabfb68a3e9c4b402474ccf5b5a
+
+PODFILE CHECKSUM: a65e149e6800aa0f3ec8716cc46b7079fba76989
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZSYFramework_Example' do
+  pod 'ZSYFramework', :path => '../'
+
+  target 'ZSYFramework_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
