@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/zhusongyu1990@163.com/ZSYFramework'
+  s.homepage         = 'https://github.com/zhusongyu/ZSYFramework'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zhusongyu1990@163.com' => 'zhusongyu1990@163.com' }
-  s.source           = { :git => 'https://github.com/zhusongyu1990@163.com/ZSYFramework.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/zhusongyu/ZSYFramework.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

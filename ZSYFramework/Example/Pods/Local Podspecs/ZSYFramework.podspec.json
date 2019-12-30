@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of ZSYFramework.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/zhusongyu1990@163.com/ZSYFramework",
+  "homepage": "https://github.com/zhusongyu/ZSYFramework",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "zhusongyu1990@163.com": "zhusongyu1990@163.com"
   },
   "source": {
-    "git": "https://github.com/zhusongyu1990@163.com/ZSYFramework.git",
+    "git": "https://github.com/zhusongyu/ZSYFramework.git",
     "tag": "0.1.0"
   },
   "platforms": {
