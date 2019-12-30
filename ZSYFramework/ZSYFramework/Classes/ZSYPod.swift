@@ -1,7 +1,7 @@
 import Foundation
 
 public class ZSYPod {
-    public func sayHi() {
-        print("Hi")
+    public func sayHi() -> String {
+        return "Hi"
     }
 }
