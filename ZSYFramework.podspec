@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/zhusongyu/ZSYFramework'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'ZSY' => 'zhusongyu1990@163.com' }
+  s.author           = { 'ZSY' => 'zhusy@anchnet.com' }
   s.source           = { :git => 'https://github.com/zhusongyu/ZSYFramework.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
