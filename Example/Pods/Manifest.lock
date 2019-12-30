@@ -1,5 +1,5 @@
 PODS:
-  - ZSYFramework (0.1.0)
+  - ZSYFramework (0.1.4)
 
 DEPENDENCIES:
   - ZSYFramework (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ZSYFramework: 8f2a86dd96d4f8800475f35d2650379a9b7139b6
+  ZSYFramework: 6aa21b53c8e5d8e8790f1bacbe8b6391a5b6cf88
 
 PODFILE CHECKSUM: a65e149e6800aa0f3ec8716cc46b7079fba76989
 
