@@ -18,5 +18,5 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "ZSYFramework/Classes/**/*"
+  "source_files": "ZSYFramework/Classes/**/*.swift"
 }
