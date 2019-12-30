@@ -14,8 +14,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        let str = ZSYPod.sayHi
-        print(str)
+        let pod = ZSYPod()
+        
+        print(pod.sayHi())
     }
 
     override func didReceiveMemoryWarning() {

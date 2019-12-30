@@ -1,7 +1,6 @@
 import Foundation
 
-public class ZSYPod {
-    static let shared = ZSYPod()
+public class ZSYPod: NSObject {
     public func sayHi() -> String {
         print("hi")
         return "cdcd"
