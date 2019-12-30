@@ -1,7 +1,7 @@
 import Foundation
 
-class Utils {
-    func sayHi() {
+public class ZSYPod {
+    public func sayHi() {
         print("Hi")
     }
 }
