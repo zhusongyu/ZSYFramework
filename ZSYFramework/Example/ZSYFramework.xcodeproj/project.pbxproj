@@ -29,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		00666E62153CF54966F2D4D6 /* Pods-ZSYFramework_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZSYFramework_Tests.debug.xcconfig"; path = "Target Support Files/Pods-ZSYFramework_Tests/Pods-ZSYFramework_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		0156E461580B76B3D8127C05 /* ZSYFramework.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ZSYFramework.podspec; path = ../ZSYFramework.podspec; sourceTree = "<group>"; };
+		0156E461580B76B3D8127C05 /* ZSYFramework.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ZSYFramework.podspec; path = ../ZSYFramework.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* ZSYFramework_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZSYFramework_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -41,8 +41,8 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		7165358683C15673D2371D5A /* Pods-ZSYFramework_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZSYFramework_Tests.release.xcconfig"; path = "Target Support Files/Pods-ZSYFramework_Tests/Pods-ZSYFramework_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		88285707FDD26864476B8CE1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		974C647C8EE2991956FDED67 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		88285707FDD26864476B8CE1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		974C647C8EE2991956FDED67 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		A37F158BF826C47FC9078930 /* Pods_ZSYFramework_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZSYFramework_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A579518DF427029B809C6939 /* Pods-ZSYFramework_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZSYFramework_Example.debug.xcconfig"; path = "Target Support Files/Pods-ZSYFramework_Example/Pods-ZSYFramework_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		C1618BB18ACF89FE894A4EB6 /* Pods-ZSYFramework_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZSYFramework_Example.release.xcconfig"; path = "Target Support Files/Pods-ZSYFramework_Example/Pods-ZSYFramework_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -86,7 +86,6 @@
 				00666E62153CF54966F2D4D6 /* Pods-ZSYFramework_Tests.debug.xcconfig */,
 				7165358683C15673D2371D5A /* Pods-ZSYFramework_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
